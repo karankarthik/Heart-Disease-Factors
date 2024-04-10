@@ -1,0 +1,279 @@
+risk factor,field,description,source url,source description
+exposure,Population,Total Population 2019 ACS estimate,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,TotalCases,Total Cases,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,TotalDeath,Total Deaths,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,TotalTests,Total Tests,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,Case_7Day,Case 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,Death_7Day,Death 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,Test_7Day,Test 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,PosRate1_7,Positivity Rate1 7 Days MO method,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,PosRate2_7,Positivity Rate2 7 Days CDC method,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NTotalCase,Normalized Total Cases,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NTotalDeath,Normalized Total Deats,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NTotalTest,Normalized Total Tests,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NCase_7Day,Normalized Case 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NDeath_7Day,Normalized Death 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+exposure,NTest_7Day,Normalized Test 7 Days,https://showmestrong.mo.gov/data-download/ ,NA
+socioeconomic,GiniIndex,Gini Index,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,NA
+socioeconomic,TPopS2701,Total Noninstitutionalized Population ACS S2701,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,HspanyRace,Estimate Hispanic Race,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PctHispani,Percent Hispanic or Latino any race,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,calc
+socioeconomic,AfrAmer,African American,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PctAfAmer,Percent African American,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,calc
+socioeconomic,Disability,With Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PctDisable,Percent with Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,calc
+socioeconomic,InsTpop,Insured Total population,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,InsHisp,Insured Hispanic or Latino any race,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,InsAfAmer,Insured African American,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,InsDisabil,Insured Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PInsHisp,Percent Insured Hispanic,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PInsAfAm,Percent Insured African American,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,PInsDisabl,Percent Insured with Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2696,ACSST5Y2018 S2701
+socioeconomic,RUCC_2013,Rural-Urban Continuum Code 2013,https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx,NA
+socioeconomic,RUCC_Descr,Rural-Urban Continuum Code Description,https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx,NA
+socioeconomic,E_pop18up,Estimate Total pop 18up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVet_18up,Estimate Veteran 18up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_18up,Percent Veterans 18up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetGulf20,Percent Veterans Gulf War 9/2001 or later,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetGulf90,Percent Veterans Gulf War 1990 to 8/2001,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetVietna,Percent Veterans Vietnam era,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetKorean,Percent Veterans Korean War,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetWWII,Percent Veterans World War II,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_A65_74,Estimate A65 74,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_A65_74,Percent  A65 74,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVet_A65_7,Estimate Veteran A65 74,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_A65_7,Percent Veterans  A65 74,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_A75up,Estimate A75up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_A75up,Percent  A75up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVet_A75up,Estimate Veteran A75up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_A75up,Percent Veterans  A75up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_MEDINC,Estimate Median Income,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetMEDINC,Estimate Veteran Median Income,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,ENovetMEDI,Estimate Non-Veteran Median Income,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_EDUCpop2,Estimate EDUC population 25 up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEDUCpo,Estimate Veterans EDUC population 25 up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_EDUC_LTH,Estimate EDUC LT HighSchool,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_EDUC_LTH,Percent  EDUC LT Highschool,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEDUC_L,Estimate Veterans EDUC LT Highschool,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetEDUC_L,Percent Veterans EDUC LT Highschool,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_EDUC_HS,Estimate EDUC Highschool Graduate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PEDUC_HS,Percent EDUC Highschool Graduate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEDUC_H,Estimate Veterans EDUC Highschool Graduate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetEDUC_H,Percent Veterans EDUC Highschool Graduate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_EDUC_Col,Estimate EDUC Some College or associates degree,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_EDUC_Col,Percent  EDUC Some College or associates degree,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEDUC_C,Estimate Veterans EDUC Some College or associates degree,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetEDUC_C,Percent Veterans EDUC Some College or associates degree,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_EDUC_Bac,Estimate EDUC Bachelors or higher,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_EDUC_Bac,Percent  EDUC Bachelors or higher,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEDUC_B,Estimate Veterans EDUC Bachelors or higher,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetEDUC_B,Percent Veterans EDUC Bachelors or higher,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_Emp_64,Estimate Employment Status pop 18 to 64,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetEmp_64,Estimate Veterans Employment Status pop 18 to 64,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,ENonVetEmp,Estimate NonVeteran Employment Status pop 18 to 64,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PEmpStat_6,Percent Employment Status pop 18 to 64,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_64par,Percent Veterans Status pop 18 to 64 PartRate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_64UnEmrt,Percent Status pop 18 to 64 UnEmployment Rate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_64UnE,Percent Veterans Status pop 18 to 64 UnEmployment Rate,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_POV_STAT,Estimate Total Pop Poverty Staus,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetPOV_ST,Estimate Veterans Poverty Status,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_BPovLev,Estimate Total Pop Below Poverty Level,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_BPovLev,Percent  Total Pop Below Poverty Level,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVet_BPovL,Estimate Veterans Below Poverty Level,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVet_BPovL,Percent Veterans Below Poverty Level,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,E_Disab,Estimate Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,P_Disab,Percent Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,EVetDisab,Estimate Veterans Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PVetDisab,Percent Veterans Disability,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2101,ACSST5Y2018 S2101
+socioeconomic,PctVet65up,Percent Veterans 65up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2102,calc
+susceptibility,LeisTime,Leisure-Time Physical Inactivity Percentage,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,StrokeHosp,All Stroke Hospitalizations,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,WOHlthIns,With Out Health Insurance,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,Obesity,Obesity Percentage,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,Diabetes,Diagnosed Diabetes Percentage,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,NonadhBld,Nonadhearance to Blood Pressure Medication,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,AvePM2p5,Annual PM 2.5 ppm Air Quality,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,TotCardDis,Total Cardiovascular Disease Hospitalizations,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,Hyperten,Hypertension Hospitalizations,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,HeartDis,All Heart Disease Hospitalizations,https://nccd.cdc.gov/DHDSPAtlas/?state=County ,Interactive Atlas of Heart Disease and Stroke
+susceptibility,SmokePrev2,Smoking Prevalance,https://pophealthmetrics.biomedcentral.com/articles/10.1186/1478-7954-12-5,NA
+susceptibility,SmokeROC96,Smoking Rate of Change,https://pophealthmetrics.biomedcentral.com/articles/10.1186/1478-7954-12-5,NA
+susceptibility,Age65plus,Age 65 plus,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,Age75plus,Age 75 plus,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,PctUninsur,Percent Uninsured,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,PctUnins65,Percent Uninsured 65 up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,PctUnins75,Percent Uninsured 75 up,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,TPops2701,Total Civilian noninstitutionalized Population 2701,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2018.S2701,ACSST5Y2018 S2701
+susceptibility,Age65P_Nor,Age 65 plus Normalized,NA,calc
+susceptibility,Age75P_Nor,Age 75 plus Normalized,NA,calc
+transmission,PS_T_Work16,Population Sample Total Workers 16 years and older,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_Carpool,Means of Transportation to Work Carpool,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Worknumpveh,Means of Transportation to Work workers per vehicle,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_PubTran,Means of Transportation to Work Public Transportation - exclude taxicab,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_Walk,Means of Transportation to Work Walked,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_AtHome,Means of Transportation to Work Worked at Home,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,PS_WorkinSRes,Population Sample Place of Work Worked in State of Residence,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_InSInCnty,Population Sample Place of Work Worked in State of Residence In County,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_InSoCnty,Population Sample Place of Work Worked in State of Residence Outside of County,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_OutState,Population Sample Place of Work Worked Outside of State,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_lt10min,Travel time to Work lt10min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_10_14min,Travel time to Work 10 14min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_15_19min,Travel time to Work 15 19min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_20_24min,Travel time to Work 20 24min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_25_29min,Travel time to Work 25 29min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_30_34min,Travel time to Work 30 34min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_35_44min,Travel time to Work 35 44min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_45_59min,Travel time to Work 45 59min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_gt60min,Travel time to Work gt60min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_Meanmin,Travel time to Work Mean travel time to work in min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,PS_Work16HH,Population Sample Vehicles Available Workers 16 plus in House Holds,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_HHNoVeh,Vehicles Available Workers 16 plus in House Holds No Vehicle available,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_HH1veh,Vehicles Available Workers 16 plus in House Holds 1 Vehicle available,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_HH2veh,Vehicles Available Workers 16 plus in House Holds 2 Vehicles available,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_HH3upveh,Vehicles Available Workers 16 plus in House Holds 3 or more Vehicles available,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_lt30min,Travel time to Work lt 30min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0802
+transmission,Work_lt60min,Travel time to Work lt 60min,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0803
+transmission,PS_WorknotatHome,Population Sample Work not at Home (commuting population),https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0801,ACSST5Y2017 S0801
+transmission,Work_anyVeh,Worker any Vehicle available,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0802,ACSST5Y2017 S0801
+transmission,PopDensqmi,Population Density per sq mile,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2017.S0803,ACSST5Y2017 S0801
+transmission,NurseHmBeds,Total Nursing Home Beds,https://hifld-geoplatform.opendata.arcgis.com/datasets/nursing-homes,NA
+transmission,NursHm_Est,Nursing Home Establishments,https://hifld-geoplatform.opendata.arcgis.com/datasets/nursing-homes,NA
+transmission,MeatProcEst,Total Meat Processing Establishments,https://www.census.gov/programs-surveys/cbp/data/datasets.html,NA
+transmission,MeatProcWrks,Total Meat Processing Workers,https://www.census.gov/programs-surveys/cbp/data/datasets.html,NA
+transmission,AccFdServEst,Total Accommodations and Food Service Establishments,https://www.census.gov/programs-surveys/cbp/data/datasets.html,NA
+transmission,AccFdServWrks,Total Accommodations and Food Service Workers,https://www.census.gov/programs-surveys/cbp/data/datasets.html,NA
+transmission,HEdEst,Higher Education Establishments,https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities,NA
+transmission,HEdTotEnroll,Total Higher Education Total Enrollment,https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities,NA
+transmission,HEdDormCap,Total Higher Education Dormatory Room Capacity,https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities,NA
+transmission,HEdTotEmp,Higher Education Total Employment,https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities,NA
+transmission,DP04_TotHUnits,DP04 Total Housing Units,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,OcRmPer1to1_5,Percentage Occupants per Room 1 to 1.5,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,OcRmCnt1to1_5,Count Occupants per Room 1 to 1.5,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,OcRmPer1_5plus,Percentage Occupants per Room GT 1.5,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,OcRmCnt1_5plus,Count Occupants per Room GT 1.5,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,HUDensity,Housing Unit Density,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP04,ACSDP5Y2018 DP04
+transmission,GPwChu18Cnt,Count Grandparents living with own grandchildren under 18 years,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018 DP02
+transmission,HHw65pPct,Percent Households Nonfamily with one or more 65 years and over,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018 DP02
+transmission,HHw65pLAPct,Percent Households Nonfamily with one or more 65 years and over Living Alone,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018 DP02
+transmission,HHw65pCnt,Count Households Nonfamily with one or more 65 years and over,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018 DP02
+transmission,HH65pLACnt,Count Households Nonfamily with one or more 65 years and over Living Alone,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018 DP02
+transmission,GPwChu18Pct,Percent Grandparents living with own grandchildren under 18 years,https://data.census.gov/cedsci/table?q=S2701&tid=ACSDP5Y2018.DP02,ACSDP5Y2018.DP02
+health resources,povpct,Percent in poverty,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pop_2014,Population (2014),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pop_densit,Population density,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,age_lt18,Age less than 18 (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pct_age_lt,Age less than 18 (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,age_18_65,Age less than 18-65 (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pct_age_18,Age less than 18-65 (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,age_gt_65,Age less than 65+ (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pct_age_gt,Age less than 65+ (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,female_tot,Female (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,female_pct,Female (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,male_total,Male (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,male_pct,Male (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,rural_totp,Rural pop (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,rural_pct,Rural pop (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,urban_totp,Urban pop (total),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,urban_pct,Urban pop (Percent),https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,maxeducHS,Population with maximum education of high school,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,maxeducSom,Population with maximum education of college,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pct_unempl,Population unemployed,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pricarephy,Total number of Primary Care Physicians,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,pcp_per_ca,PCP per capita,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,dentist_to,Total number of Dentists,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,dentist_pe,Dentists per capita,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,mentalhp_t,Total number of mental health professionals,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,mentalhp_p,Mental health professionals per capita,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,preventHos,Preventable hospital stays per 1000 population,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,food_insec,percentage of the population who did not have access to a reliable source of food during the past year,https://www.fcc.gov/health/maps/developers,c2hgis county
+health resources,limit_food,percentage of the population that is low income and does not live close to a grocery store,https://www.fcc.gov/health/maps/developers,c2hgis county
+accessibility,submission,Date of broadband submission used,https://www.fcc.gov/health/maps/developers,
+accessibility,res_concxn,Subscriptions tier,https://www.fcc.gov/health/maps/developers,
+accessibility,pctpopwbba,Percent of population with Broadband access,https://www.fcc.gov/health/maps/developers,
+accessibility,pctpopwobb,Percent of population without Broadband access,https://www.fcc.gov/health/maps/developers,
+accessibility,pctds0_hi,Percent of population with highest download speed of 0kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt0_1,Percent of population with highest download speed of 0-1000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt1K3,Percent of population with highest download speed of 1000-3000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt3K4,Percent of population with highest download speed of 3000-4000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt4K6,Percent of population with highest download speed of 4000-6000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt6K1,Percent of population with highest download speed of 6000-10000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt10K,Percent of population with highest download speed of 10000-15000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt15K,Percent of population with highest download speed of 15000-25000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt25K,Percent of population with highest download speed of 25000-50000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt50K,Percent of population with highest download speed of 50000-100000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt100,Percent of population with highest download speed of 100000kbps-1G,https://www.fcc.gov/health/maps/developers,
+accessibility,pctdsgt1G_,Percent of population with highest download speed of 1G and higher,https://www.fcc.gov/health/maps/developers,
+accessibility,pctus0_hi,Percent of population with highest upload speed of 0kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt0K1,Percent of population with highest upload speed of 0-1000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt1K3,Percent of population with highest upload speed of 1000-3000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt3K4,Percent of population with highest upload speed of 3000-4000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt4K6,Percent of population with highest upload speed of 4000-6000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt6K1,Percent of population with highest upload speed of 6000-10000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt10K,Percent of population with highest upload speed of 10000-15000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt15K,Percent of population with highest upload speed of 15000-25000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt25K,Percent of population with highest upload speed of 25000-50000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt50K,Percent of population with highest upload speed of 50000-100000kbps,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt100,Percent of population with highest upload speed of 100000kbps-1G,https://www.fcc.gov/health/maps/developers,
+accessibility,pctusgt1G_,Percent of population with highest upload speed of 1G and higher,https://www.fcc.gov/health/maps/developers,
+accessibility,mcds_prop,Most common download speed (proportion),https://www.fcc.gov/health/maps/developers,
+accessibility,mcds_tier,Most common download speed (tier),https://www.fcc.gov/health/maps/developers,
+accessibility,mcus_prop,Most common upload speed (proportion),https://www.fcc.gov/health/maps/developers,
+accessibility,mcus_tier,Most common upload speed (tier),https://www.fcc.gov/health/maps/developers,
+accessibility,provcnt_bu,Provider count (business),https://www.fcc.gov/health/maps/developers,
+accessibility,provcnt_co,Provider count (consumer),https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_prov_,Proportion with 0 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_prov1,Proportion with <=1 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_1,Proportion with <=2 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_2,Proportion with <=3 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_3,Proportion with <=4 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_4,Proportion with <=5 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_5,Proportion with <=6 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_6,Proportion with <=7 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_7,Proportion with <=8 providers,https://www.fcc.gov/health/maps/developers,
+accessibility,cumm_pro_8,Number of providers to 50th percentile of the poulation,https://www.fcc.gov/health/maps/developers,
+accessibility,pctpopdsgt,Percent of population with highest download speed of 25mbps and higher,https://www.fcc.gov/health/maps/developers,
+accessibility,pctpopusgt,Percent of population with highest upload speed of 3mbps and higher,https://www.fcc.gov/health/maps/developers,
+accessibility,hcf_13_15,Health Connect Fund funding disbursements (2013-15),https://www.fcc.gov/health/maps/developers,
+accessibility,tcf_13_15,Telecommunications Program funding disbursements (2013-15),https://www.fcc.gov/health/maps/developers,
+accessibility,bpr_ruralp,BPR (2016) Rural broadband percent with access,https://www.fcc.gov/health/maps/developers,
+accessibility,nchs_rural,NCHS rural designation,https://www.fcc.gov/health/maps/developers,
+accessibility,omb_rural,OMB rural designation,https://www.fcc.gov/health/maps/developers,
+accessibility,rucc_2013,USDA ERS Rural-Urban Continuum Codes,https://www.fcc.gov/health/maps/developers,
+accessibility,rucc_metro,USDA RUCC Metro-Nonmetro designations,https://www.fcc.gov/health/maps/developers,
+accessibility,usac_rural,USAC Rural Designations,https://www.fcc.gov/health/maps/developers,
+accessibility,rural_totp,Rural pop (total),https://www.fcc.gov/health/maps/developers,
+accessibility,rural_pct,Rural pop (Percent),https://www.fcc.gov/health/maps/developers,
+accessibility,limit_food,Limited food accessibility,https://www.fcc.gov/health/maps/developers,
+accessibility,Common_dow,numerical value for the most common download tier column (mcds_tier),https://www.fcc.gov/health/maps/developers,
+accessibility,Common_upl,numerical value for the most common upload tier column (mcus_tier),https://www.fcc.gov/health/maps/developers,
+accessibility,AveMinHosp,Average Minumum travel time in minutes from anywhere in the county to a hospital,https://www.fcc.gov/health/maps/developers,
+accessibility,AveMinUrgC,Average Minumum travel time in minutes from anywhere in the county to an Urgent Care Center,https://www.fcc.gov/health/maps/developers,
+accessibility,AveMinPubH,Average Minumum travel time in minutes from anywhere in the county to a Public Health Clinic,https://www.fcc.gov/health/maps/developers,
+accessibility,AveMinNurs,Average Minumum travel time in minutes from anywhere in the county to a Nursing Home,https://www.fcc.gov/health/maps/developers,
+accessibility,AveMinECHO,Average Minumum travel time in minutes from anywhere in the county to a telehealth ECHO,https://www.fcc.gov/health/maps/developers,
+accessibility,Shape_Ar_1,County area in square meters,https://www.fcc.gov/health/maps/developers,
+accessibility,TotAccess,Quantiled sum of all quantile parameters,https://www.fcc.gov/health/maps/developers,
+Health Culture,pricarephy,Primary Care Physicians Count,Area Health Resource File/American Medical Association,
+Health Culture,pcp_per_cap,Primary Care Physicians per capita,County Health Ranking Data 2021,
+Health Culture,dentist_to,Dentist Count,Area Health Resource File/National Provider Identification file,
+Health Culture,dentist_per_cap,Dentists per capita,County Health Ranking Data 2021,
+Health Culture,mentalhp_t,Mental Health Professionals Count,"CMS, National Provider Identification",
+Health Culture,mentalhp_per_cap,Mental Health Professionals per capita,County Health Ranking Data 2021,
+Health Culture,PrvHspRate,Preventable Hospitalization Rate,Mapping Medicare Disparities Tool,
+Health Culture,PctAMam,Percent Annual Mammogram,Mapping Medicare Disparities Tool,
+Health Culture,PctFluVac,Percent Flu Vaccinations,Mapping Medicare Disparities Tool,
+Health Culture,PctColScr,Percent Colon Screened,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,PctMamP2yr,Percent Mammogram in the past 2 years,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,PctPapP3yr,Percent Pap Smear in the past 3 years,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,COVIDPop,COVID total population base,8-20-2021  https://covidvaccine.mo.gov/data/ ,
+Health Culture,DosesAdmin,Total Doses admistered in the county,8-20-2021  https://covidvaccine.mo.gov/data/ ,
+Health Culture,COVVac1Dos,Total count of persons with at least 1 dose of COVID-19 vaccine,8-20-2021  https://covidvaccine.mo.gov/data/,
+Health Culture,COVFullVac,Total count of all fully vaccinated for COVID-19,8-20-2021  https://covidvaccine.mo.gov/data/,
+Health Culture,PctCOV1Dos,Percent population with 1 dose of COVID-19 vaccination,Calculated,
+Health Culture,PctCOVFull,Percent population with full COVID-19 vaccination,Calculated,
+Health Culture,Cen2000PR,Census 2000 participation rate,http://2010.census.gov/2010census/take10map,
+Health Culture,Cen2010PR,Census 2010 participation rate,http://2010.census.gov/2010census/take10map,
+Health Culture,AllC_AAIRt,All Cancers all ages all sexes Age Adjusted Incidence rate,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,AllC_AvAnC,All Cancers all ages all sexes Average Annual count,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,AllC_Statu,All Cancers trend status,National Cancer Institute_ statecancerprofiles.cancer.gov,
+Health Culture,AllC_Rec5Y,All Cancers recent 5 year trend,National Cancer Institute_ statecancerprofiles.cancer.gov,
