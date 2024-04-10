@@ -1,0 +1,1 @@
+To investigate and elucidate the multifaceted links between heart disease hospitalizations and influencing factors, aiming to inform and guide healthcare stakeholders and the public towards effective prevention strategies.
