@@ -6,7 +6,7 @@ This project dives into the intricate relationships between heart disease hospit
 
 ### Goal
 
-Our goal is to investigate and elucidate the multifaceted links between heart disease hospitalizations and their influencing factors, aiming to inform and guide healthcare stakeholders and the public towards effective prevention strategies.
+The goal is to investigate and elucidate the multifaceted links between heart disease hospitalizations and their influencing factors, aiming to inform and guide healthcare stakeholders and the public towards effective prevention strategies.
 
 ## Audience
 
